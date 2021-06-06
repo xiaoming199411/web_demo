@@ -5,6 +5,7 @@
 </head>
 <body>
 如果看到此页面，代表项目部署成功啦！--这是master分支
+<h1>演示改动代码后的持续集成</h1>
 <a href="/addUser">添加用户</a>
 <hr/>
 <a href="/updateUser">修改用户</a>
