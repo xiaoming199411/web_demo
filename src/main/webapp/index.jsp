@@ -7,6 +7,7 @@
 如果看到此页面，代表项目部署成功啦！--这是master分支
 <h2>演示改动代码后的持续集成</h2>
 <h2>maven项目构建</h2>
+<h2>添加Jenkinsfile脚本文件</h2>
 <a href="/addUser">添加用户</a>
 <hr/>
 <a href="/updateUser">修改用户</a>
